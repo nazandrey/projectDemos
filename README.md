@@ -1,20 +1,20 @@
 # Demos of my projects
 
-## Tank game
+## ![Tank game](https://github.com/nazandrey/tankGame)
 ![tankGame](tankGame.gif)
 
 * 2 weapons - rocket and machine gun
 * 3 types of monsters - from big and slow to small and fast
 * monsters are following player
 
-## 3DActionTutorial
+## ![3DAction Tutorial](https://github.com/nazandrey/3DActionTutorial)
 ![3DActionTutorial](3DActionTutorial.gif)
 
 * Room with obstacles
 * Monster reacts on player (shoots orange balls if nearby)
 * Click - shoot (you can see balls are created on walls)
 
-## Rectangle Relationship
+## ![Rectangle Relationship](https://github.com/nazandrey/rectangleRelationShip)
 ![rectangleRelationShip](rectangleRelaionship.gif)
 
 * Click on empty field - create rectangle
